@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990804593826",
+    "project_id": "mikee-5a294",
+    "storage_bucket": "mikee-5a294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990804593826:android:c4b1dbe57d0f36cd5b1bfb",
+        "android_client_info": {
+          "package_name": "com.prasaddevelops.mikee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDaewjsOx-AfBgIsN74ciLIC1zT8R7h1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
